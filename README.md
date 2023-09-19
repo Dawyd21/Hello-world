@@ -1,2 +1,2 @@
 # Hello-world
-Hello world in C (bash)
+Hello world in bash
